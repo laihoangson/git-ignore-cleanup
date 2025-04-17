@@ -1,0 +1,11 @@
+---
+title: "Tutorial 7"
+author: "Hoang Son Lai"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
+

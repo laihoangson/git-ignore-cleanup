@@ -9,3 +9,7 @@ editor: visual
 summary(mtcars)
 ```
 
+```{r}
+library(dplyr)
+```
+
